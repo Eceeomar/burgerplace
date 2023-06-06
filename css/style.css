@@ -15,7 +15,7 @@
   --playfair-display: "Playfair Display", serif;
   --plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
 
-  --primary-color: #007BFF;
+  --primary-color: #ffb300;
   --secondary-color: #121212;
 
   --black-200: #020202;
@@ -59,7 +59,7 @@ a {
   align-items: center;
 }
 
-.sushi__subtitle {
+.burger__subtitle {
   font-size: 18px;
   font-weight: 400;
   font-family: var(--plus-jakarta-sans);
@@ -70,7 +70,7 @@ a {
   letter-spacing: -0.01em;
 }
 
-.sushi__title {
+.burger__title {
   font-size: 64px;
   font-weight: 600;
   font-family: var(--playfair-display);
@@ -80,7 +80,7 @@ a {
   margin-top: 16px;
 }
 
-.sushi__description {
+.burger__description {
   font-size: 18px;
   font-weight: 400;
   font-family: var(--plus-jakarta-sans);
@@ -95,7 +95,7 @@ a {
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
-.sushi__hide-scrollbar::-webkit-scrollbar {
+.burger__hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
 
@@ -115,7 +115,7 @@ a {
     flex-direction: row;
   }
 
-  .about-us__image-sushi3 {
+  .about-us__image-burger3 {
     border-bottom: none;
     border-right: 8px solid var(--color-creamson);
   }
@@ -130,7 +130,7 @@ a {
     flex-direction: column;
   }
 
-  .about-us__image-sushi3 {
+  .about-us__image-burger3 {
     border-bottom: 8px solid var(--color-creamson);
     border-right: none;
   }
