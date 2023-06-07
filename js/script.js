@@ -34,25 +34,25 @@ const trendingDrinks = [
 
 const cards = [
     {
-        imgSrc: sushi12,
-        alt: "sushi-12",
-        title: "Chezu Sushi",
-        rating: "4.8",
-        price: "$21.00"
+        imgSrc: burger12,
+        alt: "burger-12",
+        title: "",
+        rating: "4.7",
+        price: "#3,500"
     },
     {
-        imgSrc: sushi11,
-        alt: "sushi-11",
-        title: "Originale Sushi",
+        imgSrc: burger12,
+        alt: "burger-12",
+        title: "Originale burger",
         rating: "4.8",
-        price: "$21.00",
+        price: "#12,000",
         active: true
     },
     {
-        imgSrc: sushi10,
-        alt: "sushi-10",
-        title: "Ramen Legendo",
-        rating: "4.8",
-        price: "$21.00"
+        imgSrc: burger12,
+        alt: "burger-12",
+        title: "bacon burger",
+        rating: "4.9",
+        price: "#5,000"
     }
 ];
